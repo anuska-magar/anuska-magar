@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Anu&fontSize=60&fontColor=fff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=55)
+
 <!-- Typing animation header -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E4405F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anu+%F0%9F%91%8B;Full+Stack+Developer;Laravel+%2B+React+%2B+MySQL;Always+learning+something+new)
 
