@@ -7,9 +7,7 @@
 
 <br>
 
-### Know About Me
-
-Hi, I'm **Anuska Magar**.
+Hi, I'm <span style="color:#e75480">Anuska Magar</span>.
 
 I spend a lot of my time somewhere between Laravel and React, figuring out how the backend and frontend are supposed to actually talk to each other. Some days that means clean, working code. Other days it means staring at an error for an hour and then fixing it with one semicolon. Outside of that, I write sometimes about my work, sometimes just for myself.
 
