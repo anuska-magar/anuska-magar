@@ -5,11 +5,7 @@
 
 </div>
 
-<br>
-
 Hi, I'm <span style="color:#e75480">Anuska Magar</span>.
-
-<br>
 
 ### Stack
 
