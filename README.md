@@ -5,8 +5,6 @@
 
 </div>
 
-Hi, I'm <span style="color:#e75480">Anuska Magar</span>.
-
 ### Stack
 
 `Laravel` `PHP` `React` `MySQL` `JavaScript` `Tailwind` `Git` `Apidog`
