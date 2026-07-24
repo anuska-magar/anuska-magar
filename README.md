@@ -34,5 +34,5 @@
 <br>
 
 <div align="center">
-<sub>xoxo</sub>
+<sub>XOXO</sub>
 </div>
